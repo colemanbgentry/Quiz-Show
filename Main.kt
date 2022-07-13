@@ -5,7 +5,7 @@ fun main() {
     generateSpace(1)
     println("You have returned to the beginning!")
 }
-//The first bit of dialog that the player recieves.
+//The first bit of dialog that the player receives.
 fun introductions() {
     generateSpace(1)
     computersConversations(0)
