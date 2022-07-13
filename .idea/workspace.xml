@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b4e168f0-3419-4e33-a6a1-8e5cb554f47a" name="Changes" comment="Adding the README.md for later use">
+    <list default="true" id="b4e168f0-3419-4e33-a6a1-8e5cb554f47a" name="Changes" comment="A few bits of everything almost done.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Main.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,7 +73,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656556459471</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="A few bits of everything almost done.">
+      <created>1657740610475</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1657740610475</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -103,6 +109,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="A little quiz show that uses the player information to be added to the quiz and will get different results by answering correctly or not." />
     <MESSAGE value="Adding the README.md for later use" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding the README.md for later use" />
+    <MESSAGE value="A few bits of everything almost done." />
+    <option name="LAST_COMMIT_MESSAGE" value="A few bits of everything almost done." />
   </component>
 </project>

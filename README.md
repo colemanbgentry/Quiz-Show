@@ -11,7 +11,7 @@ I wanted another game, that all I have been making so far, and I wanted to keep 
 
 Here is a link to my YouTube channel that has a video of the program. 
 
-[Quiz Show](http://youtube.link.goes.here)
+[Quiz Show](https://youtu.be/RQzGFWEk8x8)
 
 # Development Environment
 
